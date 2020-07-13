@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/header.svg" alt="Header image">
+<img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/header.png" alt="Header image">
 
 ### Hi there 👋
 
