@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/header.png" alt="Header image">
 
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/Hi.gif" width="30px">
 
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies, building small projects, and occassionally joining hackathons✨.
 
@@ -14,7 +14,7 @@ Here's a list of things I currently keep myself busy with:
 <details>
   <summary>Some other facts about me</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i></p>
 
   - 🔭 I’m currently working on something cool :wink:
   - 🌱 I’m currently learning Python, Django, JavaScript and Blockchain.<!-- - 👯 I’m looking to collaborate on ... -->
@@ -24,7 +24,10 @@ Here's a list of things I currently keep myself busy with:
   - 😄 Pronouns: He/Him/His
   - ⚡ Fun fact: I :heart: :man_technologist:
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=bhutkeyur&show_icons=true)
+  ![Keyur's github stats](https://github-readme-stats.vercel.app/api?username=bhutkeyur&show_icons=true&hide=["stars"])
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhutkeyur&layout=compact)
+  
+  <div align="center"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/Comp-Man.gif"></div>
 </details>
 
 <hr>
