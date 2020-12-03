@@ -1,6 +1,6 @@
-<img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/header.png" alt="Header image">
+<img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/header.png" alt="Header image">
 
-### Hi there <img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/Hi.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Hi.gif" width="30px">
 
 This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies, building small projects, and occassionally joining hackathons✨.
 
@@ -24,10 +24,10 @@ Here's a list of things I currently keep myself busy with:
   - 😄 Pronouns: He/Him/His
   - ⚡ Fun fact: I :heart: :man_technologist:
 
-  ![Keyur's github stats](https://github-readme-stats.vercel.app/api?username=bhutkeyur&show_icons=true&hide=["stars"])
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhutkeyur&layout=compact)
+  ![Keyur's github stats](https://github-readme-stats.vercel.app/api?username=ikeyurp&show_icons=true&hide=["stars"])
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeyurp&layout=compact)
   
-  <div align="center"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/Comp-Man.gif"></div>
+  <div align="center"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif"></div>
 </details>
 
 <hr>
@@ -35,15 +35,15 @@ Here's a list of things I currently keep myself busy with:
   <i>Let's connect and chat! Open to anything under the sun.</i>
 
   <p align="center">
-    <a href="https://twitter.com/bhut_keyur" alt="Twitter"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/bhutkeyur/" alt="Linkedin"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/linkedin-fill.svg"></a>
-    <a href="mailto:keyurbhut12345@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/mail-fill.svg"></a>
-    <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/external-link-line.svg"></a> -->
+    <a href="https://twitter.com/ikeyurp" alt="Twitter"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/twitter-fill.svg"></a>
+    <a href="https://www.linkedin.com/in/ikeyurp/" alt="Linkedin"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/linkedin-fill.svg"></a>
+    <a href="mailto:keyurbhut12345@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/mail-fill.svg"></a>
+    <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/external-link-line.svg"></a> -->
   </p>
 
   <p align="center">
-    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=bhutkeyur.visitor-badge">
+    <img align="center" src="https://visitor-badge.glitch.me/badge?page_id=ikeyurp.visitor-badge">
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/bhutkeyur/bhutkeyur/master/src/footer.svg" alt="Footer image">
+<img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/footer.svg" alt="Footer image">
