@@ -6,10 +6,10 @@ This is the place where I open-source stuff and break things :rofl:. I like expe
 
 Here's a list of things I currently keep myself busy with:
 
-- :man_technologist: Working as a full stack developer over at **[Courseily](javascript:void(0))** using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
+- :man_technologist: Working as a full stack developer over at **[JellyBeans](javascript:void(0))** using [Python](https://www.python.org/) and [Django](https://www.djangoproject.com/)
 - ☀️ Maintaining nothing as of today.
 - ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/bhut_keyur)**.
-- 🛠 Getting myself into JAMStack. Trying out [Netlify CMS](https://www.netlifycms.org/) and [Coursera](https://www.coursera.org/) in my spare time.
+- 🛠 Getting myself into JAMStack. Trying out [Netlify CMS](https://www.netlifycms.org/) in my spare time.
 
 <details>
   <summary>Some other facts about me</summary>
@@ -20,13 +20,13 @@ Here's a list of things I currently keep myself busy with:
   - 🌱 I’m currently learning Python, Django, JavaScript and Blockchain.<!-- - 👯 I’m looking to collaborate on ... -->
   - 🤔 I’m looking for help with Django
   - 💬 Ask me about anything related to Javascript/Python
-  - 📫 How to reach me: [@bhutkeyur](https://twitter.com/bhut_keyur)
+  - 📫 How to reach me: [@ikeyurp](https://ikeyurp.com/)
   - 😄 Pronouns: He/Him/His
   - ⚡ Fun fact: I :heart: :man_technologist:
 
   ![Keyur's github stats](https://github-readme-stats.vercel.app/api?username=ikeyurp&show_icons=true&hide=["stars"])
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ikeyurp&layout=compact)
-  
+
   <div align="center"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Comp-Man.gif"></div>
 </details>
 
@@ -38,7 +38,7 @@ Here's a list of things I currently keep myself busy with:
     <a href="https://twitter.com/ikeyurp" alt="Twitter"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/ikeyurp/" alt="Linkedin"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/linkedin-fill.svg"></a>
     <a href="mailto:keyurbhut12345@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/mail-fill.svg"></a>
-    <!-- <a href="javascript:void(0)" alt="My site"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/external-link-line.svg"></a> -->
+    <a href="https://ikeyurp.com/" alt="My site"><img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/external-link-line.svg"></a>
   </p>
 
   <p align="center">
