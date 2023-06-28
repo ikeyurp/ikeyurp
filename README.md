@@ -2,7 +2,7 @@
 
 ### Hi there <img src="https://raw.githubusercontent.com/ikeyurp/ikeyurp/master/src/Hi.gif" height="30px">
 
-This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies, building small projects, and occassionally joining hackathons✨.
+This is the place where I open-source stuff and break things :rofl:. I like experimenting with new technologies, building small projects, and occasionally joining hackathons✨.
 
 Here's a list of things I currently keep myself busy with:
 
